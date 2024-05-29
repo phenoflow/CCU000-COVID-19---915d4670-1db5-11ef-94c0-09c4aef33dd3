@@ -1,0 +1,54 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/ccu000-covid-19-identified---secondary.py
+inputModule3:
+  class: File
+  path: python/ccu000-covid-19-severity---secondary.py
+inputModule4:
+  class: File
+  path: python/ccu000-covid-19-reference---secondary.py
+inputModule5:
+  class: File
+  path: python/ccu000-covid-19-detected---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu000-covid-19-serum---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu000-covid-19-assay---secondary.py
+inputModule8:
+  class: File
+  path: python/ribonucleic-ccu000-covid-19---secondary.py
+inputModule9:
+  class: File
+  path: python/ccu000-covid-19-antibody---secondary.py
+inputModule10:
+  class: File
+  path: python/ccu000-covid-19-antigen---secondary.py
+inputModule11:
+  class: File
+  path: python/ccu000-covid-19-confirmed---secondary.py
+inputModule12:
+  class: File
+  path: python/ccu000-covid-19-speciman---secondary.py
+inputModule13:
+  class: File
+  path: python/ccu000-covid-19-scale---secondary.py
+inputModule14:
+  class: File
+  path: python/positive-ccu000-covid-19---secondary.py
+inputModule15:
+  class: File
+  path: python/acute-ccu000-covid-19---secondary.py
+inputModule16:
+  class: File
+  path: python/ccu000-covid-19-coronavirus---secondary.py
+inputModule17:
+  class: File
+  path: python/ccu000-covid-19-detection---secondary.py
+inputModule18:
+  class: File
+  path: python/output-cases.py
